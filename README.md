@@ -1,6 +1,6 @@
-## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving)
-Hello World I'm Jihoon
+## Hi there
+![Hello World👋 I'm Jihoo](https://capsule-render.vercel.app/api?type=waving)
+
 <!--
 **seo-ji-hoon/seo-ji-hoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
