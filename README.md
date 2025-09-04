@@ -1,15 +1,23 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4d4d4,100:242424&height=180&text=Hello%20world👋🏻%20I'm%20Jihoon&animation=twinkling&fontColor=000000&fontSize=50" />
+       <img src="https://capsule-render.vercel.app/api?type=transparent&color=9e9e9e&height=120&text=Hello%20World👋🏻%20I'm%20jihoon&animation=&fontColor=212121&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요, 서지훈입니다 ! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 풀스택 개발자로 전직 준비 중이고, 요즘은 버그랑 가장 친한 친구예요 😂  </div> 
     </div>
     <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👯 Project </h2> <br> 
+    <div align= "center"> 
+        [🏥Epimap] (https://github.com/MedicTrackers/EpiMap)
+    </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+          <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
