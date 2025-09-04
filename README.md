@@ -1,5 +1,5 @@
 <div align= "center">
-       <img src="https://capsule-render.vercel.app/api?type=transparent&color=9e9e9e&height=120&text=Hello%20World👋🏻%20I'm%20jihoon&animation=&fontColor=212121&fontSize=50" />
+       <img src="https://capsule-render.vercel.app/api?type=wave&color=000000&height=120&text=SeoJiHoon();&animation=&fontColor=f5ce00&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요, 서지훈입니다 ! </h2>  
@@ -33,12 +33,6 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
           </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:tjwlgns2011@gamil.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tjwlgns2011@gamil.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
