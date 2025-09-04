@@ -6,9 +6,13 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 풀스택 개발자로 전직 준비 중이고, 요즘은 버그랑 가장 친한 친구예요 😂  </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👯 Project </h2> <br> 
-    <div align= "center"> 
-        [🏥Epimap] (https://github.com/MedicTrackers/EpiMap)
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔭 Project </h2> <br> 
+    <div align= "left"> 
+        [🏥 감염병 의료정보 플랫폼 "Epimap"] - (https://github.com/MedicTrackers/EpiMap)<br><br>
+        [💰비트코인 모의투자 플랫폼 "Bitground"] <br><br>
+       - (https://github.com/Bit-Ground/spring-bitground)<br><br>
+       - (https://github.com/Bit-Ground/react-bitground)<br><br>
+       - (https://github.com/Bit-Ground/go-bitground)
     </div>  <br> 
     <div align= "center">  </div> 
     </div>
