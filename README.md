@@ -2,8 +2,13 @@
        <img src="https://capsule-render.vercel.app/api?type=wave&color=000000&height=120&text=SeoJiHoon();&animation=&fontColor=f5ce00&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요, 서지훈입니다 ! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 풀스택 개발자로 전직 준비 중이고, 요즘은 버그랑 가장 친한 친구예요 😂  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello👋, I'm Jihoon ! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+          ● 🔭 I’m currently working on [-] <br>
+          ● 🌱 I’m currently learning Java, Spring Boot, React, MySQL, Docker <br>
+          ● 💬 Ask me about Back-end, Fornt-end, Full-Stack <br>
+          ● 📫 How to reach me tjwlgns2004@naver.com<br>
+    </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔭 Project </h2> <br> 
